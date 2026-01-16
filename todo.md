@@ -43,3 +43,9 @@
 ## Documentation
 - [x] Backend API specification
 - [x] Interactive presentation webpage
+
+
+## cPanel Deployment Update
+- [ ] Rebuild production dist folder
+- [ ] Include dist folder in GitHub repository
+- [ ] Push updated code to GitHub
