@@ -103,4 +103,4 @@ Test Tracking Number: **DE2024DUBAI1**
 
 ## Footer Copyright Year Update
 - [x] Update footer copyright to 2021-2026
-- [ ] Rebuild dist and push to GitHub
+- [x] Rebuild dist and push to GitHub
