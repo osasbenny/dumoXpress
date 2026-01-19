@@ -122,7 +122,7 @@ export default function Home() {
               <div className="space-y-8">
                 <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-2 text-sm">
                   <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
-                  With branches in India, Oman, Turkey, Yemen, Lebanon, Saudi Arabia, Spain, and Portugal
+                  Global Worldwide Delivery
                 </div>
                 
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight" style={{ fontFamily: 'Poppins, sans-serif' }}>
