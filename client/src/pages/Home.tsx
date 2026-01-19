@@ -51,7 +51,7 @@ const stats = [
   { value: "100K+", label: "Parcels Delivered" },
   { value: "99.5%", label: "On-Time Delivery" },
   { value: "1000+", label: "Business Partners" },
-  { value: "150+", label: "Countries Served" },
+  { value: "8", label: "Branch Offices" },
 ];
 
 const features = [
@@ -68,7 +68,7 @@ const features = [
   {
     icon: MapPin,
     title: "Global Coverage",
-    description: "Delivering to over 150 countries worldwide from our Malaysia hub.",
+    description: "Branch offices in India, Oman, Turkey, Yemen, Lebanon, Saudi Arabia, Spain, and Portugal.",
   },
 ];
 
@@ -122,7 +122,7 @@ export default function Home() {
               <div className="space-y-8">
                 <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm rounded-full px-4 py-2 text-sm">
                   <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
-                  Delivering Worldwide from Malaysia
+                  With branches in India, Oman, Turkey, Yemen, Lebanon, Saudi Arabia, Spain, and Portugal
                 </div>
                 
                 <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight" style={{ fontFamily: 'Poppins, sans-serif' }}>
@@ -130,7 +130,7 @@ export default function Home() {
                 </h1>
                 
                 <p className="text-lg text-white/80 max-w-xl">
-                  From same-day express to international shipping, we deliver your parcels safely and on time. Track your shipments in real-time, anywhere in the world. Based in Malaysia, serving 150+ countries.
+                  From same-day express to international shipping, we deliver your parcels safely and on time. Track your shipments in real-time, anywhere in the world. Based in Malaysia, with branch offices in India, Oman, Turkey, Yemen, Lebanon, Saudi Arabia, Spain, and Portugal.
                 </p>
                 
                 <div className="flex flex-col sm:flex-row gap-4">

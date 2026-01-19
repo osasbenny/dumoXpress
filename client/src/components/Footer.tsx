@@ -39,7 +39,7 @@ export default function Footer() {
               <img src="/logo.png" alt="DumoExpress" className="h-12 w-auto brightness-0 invert" />
             </Link>
             <p className="text-sm text-gray-300 leading-relaxed">
-              Fast & Reliable Global Courier Services. Your trusted partner for express parcel delivery worldwide. Based in Malaysia, serving 150+ countries.
+              Fast & Reliable Global Courier Services. Your trusted partner for express parcel delivery worldwide. Based in Malaysia, with branch offices in India, Oman, Turkey, Yemen, Lebanon, Saudi Arabia, Spain, and Portugal.
             </p>
             <div className="flex gap-4">
               {socialLinks.map((social) => (

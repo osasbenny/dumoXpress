@@ -30,17 +30,17 @@ const values = [
   {
     icon: MapPin,
     title: "Global Coverage",
-    description: "From Malaysia to over 150 countries worldwide. No destination is too far for DumoExpress.",
+    description: "Based in Malaysia with branch offices in India, Oman, Turkey, Yemen, Lebanon, Saudi Arabia, Spain, and Portugal.",
   },
 ];
 
 const milestones = [
-  { year: "2018", title: "Founded", description: "DumoExpress started operations in Kuala Lumpur" },
-  { year: "2019", title: "Expansion", description: "Extended services to Selangor and Penang" },
-  { year: "2020", title: "Nationwide", description: "Achieved coverage across all 13 Malaysian states" },
-  { year: "2021", title: "International Expansion", description: "Launched services to 50+ countries" },
-  { year: "2022", title: "Global Network", description: "Expanded to 150+ countries worldwide" },
-  { year: "2023", title: "100K Deliveries", description: "Milestone of 100,000 global deliveries" },
+  { year: "2021", title: "Founded", description: "DumoExpress started operations in Kuala Lumpur, Malaysia" },
+  { year: "2022", title: "Regional Expansion", description: "Opened branch offices in India, Oman, and Saudi Arabia" },
+  { year: "2023", title: "Middle East Growth", description: "Expanded to Yemen and Lebanon markets" },
+  { year: "2024", title: "European Presence", description: "Established branch offices in Turkey, Spain, and Portugal" },
+  { year: "2025", title: "100K Deliveries", description: "Achieved milestone of 100,000 international deliveries" },
+  { year: "2026", title: "Global Network", description: "Operating 8 branch offices serving customers worldwide" },
 ];
 
 const team = [
@@ -75,7 +75,7 @@ export default function About() {
                 About DumoExpress
               </h1>
               <p className="text-xl text-white/80 leading-relaxed">
-                We're on a mission to revolutionize global courier services. Since 2018, we've been delivering trust, speed, and reliability to thousands of customers worldwide from our Malaysia hub.
+                We're on a mission to revolutionize global courier services. Since 2021, we've been delivering trust, speed, and reliability to thousands of customers worldwide from our Malaysia headquarters with branch offices in India, Oman, Turkey, Yemen, Lebanon, Saudi Arabia, Spain, and Portugal.
               </p>
             </div>
           </div>
